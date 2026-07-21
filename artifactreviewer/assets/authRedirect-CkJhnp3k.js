@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill-B5Qt9EMX.js";import{P as i}from"./vendor-msal-Ci75SbXU.js";const o="21236342-a3bd-41fc-8078-0f874c274afa",a="6aff0535-9710-48e4-899a-59ca8a652889";new i({auth:{clientId:o,authority:`https://login.microsoftonline.com/${a}`,redirectUri:window.location.origin+window.location.pathname},cache:{cacheLocation:"localStorage"}}).initialize();
